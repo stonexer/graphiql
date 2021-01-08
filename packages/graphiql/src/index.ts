@@ -10,6 +10,7 @@
  */
 import { GraphiQL } from './components/GraphiQL';
 export default GraphiQL;
+export { GraphiQL };
 
 export * from './components/GraphiQL';
 
